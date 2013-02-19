@@ -1,0 +1,8 @@
+name: CouponCodes
+main: me.chaseoes.couponcodes.CouponCodes
+version: 1.0
+description: Gives the ability to create and reedem coupon codes.
+commands:
+  coupon:
+    description: The central command for the CouponCodes plugin.
+    usage: /<command> [args]
